@@ -7,4 +7,4 @@
 * Wolfram Language kernel ([here](https://github.com/WolframResearch/WolframLanguageForJupyter))
 
 ## Billiards
-- [test](https://github.com/4kasha/blob/master/misc_phys/Billiards/Collection_of_Quantum_Billiards.ipynb)
+- [test](https://github.com/4kasha/misc_phys/blob/master/Billiards/Collection_of_Quantum_Billiards.ipynb)
