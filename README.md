@@ -1,6 +1,6 @@
 # Notes
 
-- [Basic Billiard Dynamics / Quantum chaos](https://github.com/4kasha/misc_phys/blob/master/Notes/Collection_of_Billiards_Dynamics.ipynb)
+- [Basic Billiard Dynamics / Quantum chaos](https://github.com/4kasha/misc_phys/blob/master/Notes/Billiard_Dynamics_Quantum_Chaos.ipynb)
     > ref. 
     >
     > https://www.physik.tu-dresden.de/~baecker/papers/qc.pdf
